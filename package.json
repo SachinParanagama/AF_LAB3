@@ -1,0 +1,19 @@
+{
+  "name": "af_lab3",
+  "version": "1.0.0",
+  "description": "AF Lab 03",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SachinParanagama/AF_LAB3.git"
+  },
+  "author": "Sachin Paranagama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SachinParanagama/AF_LAB3/issues"
+  },
+  "homepage": "https://github.com/SachinParanagama/AF_LAB3#readme"
+}
